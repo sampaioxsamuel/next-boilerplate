@@ -1,9 +1,7 @@
+// import * as S from './styles'
+
 const Main = () => {
-  return (
-    <main>
-      <h1>React avancado</h1>
-    </main>
-  )
+  return <h1>React avancado</h1>
 }
 
 export default Main
